@@ -232,3 +232,6 @@ This repository serves as the official landing page for Microsoft Jigsaw. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Microsoft Jigsaw today!**
+
+---
+**Last updated:** 2026-09-10 16:43:58 UTC
